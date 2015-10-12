@@ -1,0 +1,11 @@
+# Python compiled files
+*.py[cod]
+
+# IDE
+/.idea
+
+# Django
+/django/db.sqlite3
+
+# pyenv
+.python-version
